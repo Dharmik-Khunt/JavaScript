@@ -11,7 +11,7 @@ console.log(age);
 const name="Dharmik";      // variable cannot be re-declared or updated. A block scope variable
 console.log(name);
 
-/*------------------------Object declaration----------------*/
+/*--------------------------------------------Object declaration----------------------------------------*/
 
 const student = {
     name:"Dharmik",
